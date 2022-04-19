@@ -28,13 +28,12 @@
   "dependencies": {
     "@koa/cors": "^3.3.0",
     "@koa/router": "^10.1.1",
+    "@thzero/library_common": "^0.15",
+    "@thzero/library_common_service": "^0.15",
+    "@thzero/library_server": "^0.15.38",
     "koa": "^2.13.4",
     "koa-body": "^4.2.0",
     "koa-helmet": "^6.1.0",
     "koa-static": "^5.0.0"
-  },
-  "peerDependencies": {
-    "@thzero/library_common": "^0.15",
-    "@thzero/library_common_service": "^0.15"
   }
 }
