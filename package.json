@@ -1,11 +1,11 @@
 {
   "name": "@thzero/library_server_koa",
   "type": "module",
-  "version": "18.0.12",
+  "version": "18.0.13",
   "version_major": 18,
   "version_minor": 0,
-  "version_patch": 12,
-  "version_date": "10/15/2025",
+  "version_patch": 13,
+  "version_date": "11/12/2025",
   "description": "An opinionated library of common functionality to bootstrap a Koa based API application.",
   "author": "thZero",
   "license": "MIT",
@@ -27,8 +27,8 @@
   "dependencies": {
     "@koa/cors": "^5.0.0",
     "@koa/router": "^14.0.0",
-    "koa": "^3.0.1",
-    "koa-body": "^6.0.1",
+    "koa": "^3.1.1",
+    "koa-body": "^7.0.0",
     "koa-helmet": "^8.0.1",
     "koa-static": "^5.0.0"
   },
